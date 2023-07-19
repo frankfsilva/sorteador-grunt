@@ -1,11 +1,10 @@
 <h1>Sorteador de números</h1>
 <h2>Sobre o projeto</h2>
-Sorteador de números é uma simples aplicação apenas para fim de aplicação do automatizador grunt.
-Esta aplicação consista na busca randomica de um número inteiro, sendo o mnor número igual a 1 (um) e o maior número a ser informado pelo usuário.
-Não um trabalho de estilização do layout, pois o objetivo era a prática do grunt, apenas. 
+Sorteador de números é uma simples aplicação apenas para fim de uso grunt.
+Esta aplicação consiste na busca randômica de um número inteiro, sendo o menor número igual a 1 (um) e o maior número a ser informado pelo usuário.
+Não há muita estilização no layout, assim como resposividade, pois o objetivo do projeto foi apenas a prática do grunt.
 <h2>Layout web</h2>
-<img src="https://github.com/frankfsilva/loja-de-calcas/blob/main/prints/web_1.png">
-<img src="https://github.com/frankfsilva/loja-de-calcas/blob/main/prints/web_2.png">
+<img src="https://github.com/frankfsilva/sorteador_grunt/blob/main/prints/web_1.png">
 <h2>Tecnologias utilizadas</h2>
 <ul>
   <li>HTML5;</li>
